@@ -1,4 +1,4 @@
-#include<sdio.h>
+#include<stdio.h>
 int main()
 {
   /*When you know exactly how many times you want to loop through a block of code, 
